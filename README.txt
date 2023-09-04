@@ -27,9 +27,16 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
-    Script & back-ends:
-	    FDG (RHHS Music tech)
+	Photography
+		Allyson Mack & Jessie Chen (RHHS Music Media team 2023-2024)
+		Elina Lai & Fiona Xu (RHHS Music Media team 2022-2023)
+
+    	Script & back-ends:
+	    	Fangda Gan (RHHS Music tech)
+	    	Patrick Wei (RHHS Music tech)
+
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Cameron Rawlins (RHHS Music Department head)
