@@ -19,7 +19,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+## Credits:
 
 	Demo Images:
 		Michael Domaradzki (md.photomerchant.net)
